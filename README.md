@@ -5,7 +5,8 @@ Email: bidhan@bidhantech.in
 ## Experience
 ### Freelance Web Developer
 November, 2018 - Present
-[Hire me on PeoplePerHourProfile](https://pph.me/bidhantech)
+
+[Hire me on PeoplePerHour](https://pph.me/bidhantech)
 
 ## Education
 
