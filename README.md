@@ -11,13 +11,12 @@ November, 2018 - Present
 ## Education
 
 ### B.Tech. - Computer Science & Engineering
-DGPA:  | 2016 - 2020
+2016 - 2020
 
 ### H.S - Science with Computer Application
-78.6% | 2015
+2015
 
 ### Madhyamik ( 10th )
-76.57%
 
 ## Projects
 ### Technology Travel Food WordPress Theme
