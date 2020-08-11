@@ -4,19 +4,19 @@ Email: bidhan@bidhantech.in
 
 ## Experience
 ### Freelance Web Developer
-November, 2019 - Present
-[PeoplePerHourProfile](https://pph.me/bidhantech)
+November, 2018 - Present
+[Hire me on PeoplePerHourProfile](https://pph.me/bidhantech)
 
 ## Education
 
 ### B.Tech. - Computer Science & Engineering
-2016 - 2020
+DGPA:  | 2016 - 2020
 
 ### H.S - Science with Computer Application
-2015
+78.6% | 2015
 
 ### Madhyamik ( 10th )
-
+76.57%
 
 ## Projects
 ### Technology Travel Food WordPress Theme
