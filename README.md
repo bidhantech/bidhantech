@@ -38,9 +38,9 @@ WordPress | React | php | MySQL | HTML | CSS | JavaScript
 
 ## SOCIAL
 
-### LinkedIn:
-### GitHub:
-### WordPress:
+#### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
+#### GitHub:
+#### WordPress:
 <!--
 **bidhantech/bidhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
