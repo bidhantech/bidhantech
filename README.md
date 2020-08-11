@@ -21,8 +21,7 @@ DGPA:  | 2016 - 2020
 
 ## Projects
 ### Technology Travel Food WordPress Theme
-Project URL:
-
+Project URL: https://wordpress.org/themes/technology-travel-food/
 ### BidhanTech Quizzes
 Project URL: https://quiz.bidhantech.in
 
@@ -36,9 +35,9 @@ Project URL: https://www.bidhantech.in
 WordPress | React | php | MySQL | HTML | CSS | JavaScript
 
 ## SOCIAL
-LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
-GitHub:
-WordPress:
+###### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
+###### GitHub: https://github.com/bidhantech/
+###### WordPress: https://profiles.wordpress.org/bidhantech/
 <!--
 **bidhantech/bidhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
