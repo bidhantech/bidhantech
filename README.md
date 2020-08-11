@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # BIDHAN CHANDRA GHOSH
 ### bidhan@bidhantech.in
 
