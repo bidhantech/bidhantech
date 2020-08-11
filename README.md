@@ -3,24 +3,22 @@ Email: bidhan@bidhantech.in
 
 
 ## Experience
-
 ### Freelance Web Developer
-#### November, 2019 - Present
+November, 2019 - Present
 [PeoplePerHourProfile](https://pph.me/bidhantech)
 
 ## Education
 
 ### B.Tech. - Computer Science & Engineering
-#### 2016 - 2020
+2016 - 2020
 
 ### H.S - Science with Computer Application
-#### 2015
+2015
 
 ### Madhyamik ( 10th )
 
 
 ## Projects
-
 ### Technology Travel Food WordPress Theme
 Project URL:
 
@@ -37,10 +35,9 @@ Project URL: https://www.bidhantech.in
 WordPress | React | php | MySQL | HTML | CSS | JavaScript
 
 ## SOCIAL
-
-#### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
-#### GitHub:
-#### WordPress:
+LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
+GitHub:
+WordPress:
 <!--
 **bidhantech/bidhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
