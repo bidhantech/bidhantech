@@ -1,5 +1,5 @@
 # BIDHAN CHANDRA GHOSH
-### bidhan@bidhantech.in
+Email: bidhan@bidhantech.in
 
 <!--
 **bidhantech/bidhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
