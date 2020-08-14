@@ -16,8 +16,6 @@ November, 2018 - Present
 ### H.S - Science with Computer Application
 2015
 
-### Madhyamik ( 10th )
-
 ## Projects
 ### Technology Travel Food WordPress Theme
 Project URL: https://wordpress.org/themes/technology-travel-food/
