@@ -5,6 +5,7 @@ Email: bidhan@bidhantech.in
 ## Experience
 ### Freelance Web Developer
 November, 2018 - Present
+Technologies Worked On: WordPress | php | MySQL | JavaScript | HTML5 | CSS3
 
 [Hire me on PeoplePerHour](https://pph.me/bidhantech)
 
