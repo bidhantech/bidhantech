@@ -32,7 +32,7 @@ Project URL: https://www.bidhantech.in
 ### H.S - Science with Computer Application
 2015
 
-## CERTIFICATIONS
+## Certifications
 
 ### Web Developer Bootcamp - Udemy
 [View Certificate](https://www.udemy.com/certificate/UC-6AKFD9MQ/)
@@ -43,7 +43,7 @@ Project URL: https://www.bidhantech.in
 ### Complete WordPress Theme & Plugin Development Course - Udemy
 [View Certificate](https://www.udemy.com/certificate/UC-8830072e-7430-4c7d-b518-b977359fedc3/)
 
-## SOCIAL
+## Social
 ###### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
 ###### GitHub: https://github.com/bidhantech/
 ###### WordPress: https://profiles.wordpress.org/bidhantech/
