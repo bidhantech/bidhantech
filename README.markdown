@@ -8,7 +8,7 @@ November, 2018 - Present
 
 [Hire me on PeoplePerHour](https://pph.me/bidhantech)
 
-## SKILLS
+## Skills
 WordPress | React | php | MySQL | HTML | CSS | JavaScript
 
 ## Projects
