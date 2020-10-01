@@ -32,21 +32,18 @@ Project URL: https://www.bidhantech.in
 ### H.S - Science with Computer Application
 2015
 
+## CERTIFICATIONS
+
+### Web Developer Bootcamp - Udemy
+[View Certificate](https://www.udemy.com/certificate/UC-6AKFD9MQ/)
+
+### Advanced Google Analytics - Google
+[View Certificate](https://analytics.google.com/analytics/academy/certificate/BFLOPoo4TRCqR5RGbi1WDQ)
+
+### Complete WordPress Theme & Plugin Development Course - Udemy
+[View Certificate](https://www.udemy.com/certificate/UC-8830072e-7430-4c7d-b518-b977359fedc3/)
+
 ## SOCIAL
 ###### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
 ###### GitHub: https://github.com/bidhantech/
 ###### WordPress: https://profiles.wordpress.org/bidhantech/
-<!--
-**bidhantech/bidhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
