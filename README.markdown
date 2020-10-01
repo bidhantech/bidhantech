@@ -25,7 +25,6 @@ Project URL: https://motivation.bidhantech.in
 Project URL: https://www.bidhantech.in
 
 ## Education
-
 ### B.Tech. - Computer Science & Engineering
 2016 - 2020
 
@@ -33,7 +32,6 @@ Project URL: https://www.bidhantech.in
 2015
 
 ## Certifications
-
 ### Web Developer Bootcamp - Udemy
 [View Certificate](https://www.udemy.com/certificate/UC-6AKFD9MQ/)
 
