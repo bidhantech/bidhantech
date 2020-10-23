@@ -6,8 +6,6 @@ Email: bidhan@bidhantech.in
 ### Freelance Web Developer
 November, 2018 - October, 2020
 
-[Hire me on PeoplePerHour](https://pph.me/bidhantech)
-
 ## Skills
 WordPress | React | php | MySQL | HTML | CSS | JavaScript
 
