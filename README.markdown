@@ -41,4 +41,3 @@ Project URL: https://www.bidhantech.in
 
 ## Social
 ###### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
-###### WordPress: https://profiles.wordpress.org/bidhantech/
