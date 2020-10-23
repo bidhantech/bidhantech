@@ -38,4 +38,4 @@ Project URL: https://www.bidhantech.in
 [View Certificate](https://www.udemy.com/certificate/UC-8830072e-7430-4c7d-b518-b977359fedc3/)
 
 ## Social
-###### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
+##### LinkedIn: https://www.linkedin.com/in/bidhan-chandra-ghosh/
