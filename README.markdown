@@ -1,6 +1,10 @@
 # BIDHAN CHANDRA GHOSH
 
 ## Experience
+### Trainee Software Engineer
+#### Geotech Info Services
+October 27, 2020 - Present
+
 ### Freelance Web Developer
 November, 2018 - October, 2020
 
