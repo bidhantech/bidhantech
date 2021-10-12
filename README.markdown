@@ -13,13 +13,13 @@ MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
 
 ## Projects
 ### Technology Travel Food WordPress Theme
-Project URL: https://wordpress.org/themes/technology-travel-food/
+[View Project](https://wordpress.org/themes/technology-travel-food/)
 
 ### Motivational Quotes ( Browser extension )
-Project URL: https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl
+[View Project](https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl)
 
 ### Earning Spending Diary
-Project URL: https://earning-spending-diary-demo.netlify.app/
+[View Project](https://earning-spending-diary-demo.netlify.app/)
 
 ## Education
 ### B.Tech. - Computer Science & Engineering
