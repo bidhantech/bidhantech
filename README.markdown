@@ -1,7 +1,7 @@
 # BIDHAN CHANDRA GHOSH
 
 ## Experience
-### Trainee Software Engineer
+### Software Engineer
 #### Geotech Info Services
 October 27, 2020 - Present
 
@@ -9,20 +9,17 @@ October 27, 2020 - Present
 November, 2018 - October, 2020
 
 ## Skills
-WordPress | React | php | MySQL | HTML | CSS | JavaScript
+MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
 
 ## Projects
 ### Technology Travel Food WordPress Theme
 Project URL: https://wordpress.org/themes/technology-travel-food/
 
-### BidhanTech Quizzes
-Project URL: https://quiz.bidhantech.in
+### Motivational Quotes ( Browser extension )
+Project URL: https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl
 
-### BidhanTech Quotes
-Project URL: https://motivation.bidhantech.in
-
-### BidhanTech Blog
-Project URL: https://www.bidhantech.in
+### Earning Spending Diary
+Project URL: https://earning-spending-diary-demo.netlify.app/
 
 ## Education
 ### B.Tech. - Computer Science & Engineering
