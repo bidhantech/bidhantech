@@ -9,7 +9,9 @@ October 27, 2020 - Present
 November, 2018 - October, 2020
 
 ## Skills
-MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
+MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhantech&layout=compact&theme=radical)](https://github.com/bidhantech)
 
 ## Projects
 
@@ -21,9 +23,7 @@ MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
 </a>
 <a href="https://github.com/bidhantech/nodejs-authentication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication&theme=radical" />
-</a>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhantech&layout=compact&theme=radical)](https://github.com/bidhantech)
+</a>
 
 ## Education
 ### B.Tech. - Computer Science & Engineering
