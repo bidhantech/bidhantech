@@ -23,6 +23,7 @@ MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication&theme=radical" />
 </a>
 
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhantech&layout=compact&theme=radical)](https://github.com/bidhantech)
 
 ## Education
