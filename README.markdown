@@ -12,9 +12,13 @@ November, 2018 - October, 2020
 MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
 
 ## Projects
-[![trackMyBudget](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=trackMyBudget-using-ionic&theme=radical)](https://play.google.com/store/apps/details?id=in.bidhantech.trackMyBudget)
 
-[![Motivational Quotes ( Browser extension )](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=motivational-quotes-browser-extension&theme=radical)](https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl)
+<a href="https://play.google.com/store/apps/details?id=in.bidhantech.trackMyBudget">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=trackMyBudget-using-ionic&theme=radical" />
+</a>
+<a href="https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=trackMyBudget-using-ionic&theme=radical" />
+</a>
 
 [![Node.js Auth](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication&theme=radical)](https://github.com/bidhantech/nodejs-authentication)
 
