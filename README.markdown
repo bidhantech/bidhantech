@@ -17,10 +17,11 @@ MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=trackMyBudget-using-ionic&theme=radical" />
 </a>
 <a href="https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=trackMyBudget-using-ionic&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=motivational-quotes-browser-extension&theme=radical" />
 </a>
-
-[![Node.js Auth](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication&theme=radical)](https://github.com/bidhantech/nodejs-authentication)
+<a href="https://github.com/bidhantech/nodejs-authentication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication&theme=radical" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhantech&layout=compact&theme=radical)](https://github.com/bidhantech)
 
