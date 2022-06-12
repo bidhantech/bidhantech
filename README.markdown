@@ -21,7 +21,7 @@ MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
 ### Motivational Quotes ( Browser extension )
 [View Project](https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl)
 
-![Bidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhantech&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 ### B.Tech. - Computer Science & Engineering
