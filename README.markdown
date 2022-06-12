@@ -16,7 +16,7 @@ MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
 
 [![Motivational Quotes ( Browser extension )](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=motivational-quotes-browser-extension&theme=radical)](https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl)
 
-[![Node.js Auth](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication&theme=radical)]([https://github.com/bidhantech/nodejs-authentication)
+[![Node.js Auth](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication&theme=radical)](https://github.com/bidhantech/nodejs-authentication)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhantech&layout=compact&theme=radical)](https://github.com/bidhantech)
 
