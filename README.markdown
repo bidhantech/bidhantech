@@ -12,14 +12,11 @@ November, 2018 - October, 2020
 MongoDB | Express.js | Angular | Node.js | WordPress | HTML | CSS | JavaScript
 
 ## Projects
-### trackMyBudget ( Mobile App developed using Ionic & Angular )
-[View Project](https://play.google.com/store/apps/details?id=in.bidhantech.trackMyBudget)
+[![trackMyBudget](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=trackMyBudget-using-ionic)](https://play.google.com/store/apps/details?id=in.bidhantech.trackMyBudget)
 
-### Technology Travel Food WordPress Theme
-[View Project](https://wordpress.org/themes/technology-travel-food/)
+[![Motivational Quotes ( Browser extension )](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=motivational-quotes-browser-extension)](https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl)
 
-### Motivational Quotes ( Browser extension )
-[View Project](https://chrome.google.com/webstore/detail/motivational-quotes/ljhoogbfimpodcklbgflpfllfdoncakl)
+[![Node.js Auth](https://github-readme-stats.vercel.app/api/pin/?username=bidhantech&repo=nodejs-authentication)]([https://github.com/bidhantech/nodejs-authentication)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhantech&layout=compact&theme=radical)](https://github.com/bidhantech)
 
