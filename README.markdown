@@ -1,9 +1,14 @@
 # BIDHAN CHANDRA GHOSH
 
 ## Experience
+
+### Associate
+#### PwC India
+June 22, 2023 - Present
+
 ### Software Engineer
 #### Geotech Info Services
-October 27, 2020 - Present
+October 27, 2020 - June 16, 2023
 
 ### Freelance Web Developer
 November, 2018 - October, 2020
