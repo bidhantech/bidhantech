@@ -2,7 +2,7 @@
 
 ## Experience
 
-### Associate
+### Senior Associate
 #### PwC India
 June 22, 2023 - Present
 
